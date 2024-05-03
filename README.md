@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem Vindo ao Meu Perfil 😄👍
 
-<!--
-**SalesExalta/SalesExalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, me chamo Guilherme Oliveira Sales
+- Estou cursando no [Alura](https://www.alura.com.br)
+- Estou aprendendo a desenvolver no JavaScript
+- Também estou aprendendo a usar o Exel
+- Uso esse espaço pra me organizar e compartilhar meus projetos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📬
+  Email: sales2006.gui@gmail.com
+  
+  Instagram: @g_saless2
+  
+  twitter/X: Sales_S2_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/sTDS6EpZGEoAAAAd/para-de-fofoca-fofoca.gif)
+  
