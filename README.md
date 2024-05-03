@@ -1,6 +1,8 @@
 ### Bem Vindo ao Meu Perfil 😄👍
 
 Prazer, me chamo Guilherme Oliveira Sales
+
+sou vascaíno, **VAAASSSSCOOOO** 💢💢
 - Estou cursando no [Alura](https://www.alura.com.br)
 - Estou aprendendo a desenvolver no JavaScript
 - Também estou aprendendo a usar o Exel
